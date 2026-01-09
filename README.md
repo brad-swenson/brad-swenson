@@ -1,16 +1,16 @@
-## Hi there 👋
+## Brad Swenson
 
-<!--
-**brad-swenson/brad-swenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi there, I'm Brad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Cats
+
+### Goose
+
+![Goose](./cats/PXL_20250429_205617683.jpg)
+
+### Dolly
+
+![Dolly](./cats/PXL_20250501_024627026.jpg)
+
